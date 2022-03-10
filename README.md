@@ -1,5 +1,15 @@
-Mars Escape is a stationary VR Experience.
+# Mars Escape Room 
 
+
+## ABOUT THE APPLICATION
+Mars Escape Room is a seated Virtual Reality experience designed in Unity Game Engine for Oculus Quest 2.  The Application utilizes the AR Foundations Toolkit and XR Interactions Toolkit to provide users with a smooth and immersive experience.  
+
+## THE EXPERIENCE
+Users find themselves in the midst of a crisis! The Mars Station's oxygen has been taken out by seismic activity. Only a few minutes of oxygen remain in the pod. A simple puzzle is set in place for users solve, granting access to the main chamber where they must turn the oxygen back on.
+
+You can access a build of the project [HERE]
+
+## HOW TO PLAY
 Player Controller Actions:
 
 Select // Trigger:
@@ -22,4 +32,17 @@ SFX:
 Prelude and Action by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4236-prelude-and-action
 License: https://filmmusic.io/standard-license
+
+## BUILT WITH
+This Virtual Reality escape room was built with 
+- [Unity Game Engine](https://unity.com/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+## ABOUT THE DEVELOPER
+Chris VanDenhende is an XR Experience Designer and AR/VR software developer in training at Holberton School, Tulsa. He will graduate with a Diploma in AR/VR Software Development in summer 2022.  You will find Chris pushing boundaries at the intersections of art, entertainment, marketing, and technology; VanDenhende aims to find a role where his creative innovation and technology skills are put to the test, creating opportunities for the public to engage with AR/VR experiences in new and exciting ways.
+
+- [LinkedIn](https://www.linkedin.com/in/chrisvanndy/)
+- [Spark AR Portfolio](https://www.facebook.com/sparkarhub/portfolios/fb/chris.vandenhende.1/)
+- [Instagram AR Reels](https://www.instagram.com/chrisvanndy/reels/)
+- [Portfolio](https://chrisvanndy.github.io/)
 
