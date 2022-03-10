@@ -1,13 +1,20 @@
 # Mars Escape Room 
 
+![Project Hero Image](IMG_1247.JPG?raw=true "Hero Image")
 
 ## ABOUT THE APPLICATION
 Mars Escape Room is a seated Virtual Reality experience designed in Unity Game Engine for Oculus Quest 2.  The Application utilizes the AR Foundations Toolkit and XR Interactions Toolkit to provide users with a smooth and immersive experience.  
 
 ## THE EXPERIENCE
-Users find themselves in the midst of a crisis! The Mars Station's oxygen has been taken out by seismic activity. Only a few minutes of oxygen remain in the pod. A simple puzzle is set in place for users solve, granting access to the main chamber where they must turn the oxygen back on.
+Users find themselves in the midst of a crisis! The Mars Station's oxygen has been taken out by seismic activity. Only a few minutes of oxygen remain in the pod. A simple puzzle is set in place for users solve, replacing the breakers that have caused the oxygen to go out. 
 
-You can access a build of the project [HERE]
+![Colored circuit breakers need to be replaced to solve the puzzle](IMG_1249.JPG?raw=true "Hero Image")
+
+When complete, access to the main chamber is granted. One last tast remains; turn the oxygen back on.
+
+![The solved puzzle allows for players to move into the next room](IMG_1250.JPG?raw=true "Hero Image")
+
+You can access a build of the project [HERE](https://drive.google.com/drive/u/4/folders/1sQlOYZqSZIKoo1OP1vYs29cQAGPoPdGW).
 
 ## HOW TO PLAY
 Player Controller Actions:
